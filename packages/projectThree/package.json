@@ -1,6 +1,6 @@
 {
   "name": "project-three",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "project-one": "^1.1.0",
+    "project-one": "^1.2.0",
     "project-two": "^1.1.0"
   }
 }
